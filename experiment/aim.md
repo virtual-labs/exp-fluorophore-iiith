@@ -1,1 +1,10 @@
-### Aim of the experiment
+Fluorescence measurements can be carried out on gaseous, liquid or solid samples. The fluorescence spectral characteristics of a fluorophore vary depending on its surrounding environment. Surrounding environment affects the processes of electronic transitions in various ways. The interactions with the solvent and other dissolved compounds, viscosity, pH, temperature, and the concentration of the fluorophore species, etc. are a few environmental factors that affect the fluorescence phenomena. These factors influence both the absorption and emission spectra as well as the quantum yields of the fluorophore. However, the effects on the fluorophore again vary depending on the nature of the fluorophore species.
+
+Solvents play important roles in determining the fluorescence behavior of a (fluorophore) solute molecule. The solvent effects are caused through the variation in solvent dielectric constants, refractive indices, polarities, viscosities, polarizabilities and/or induced dipoles. The solute-solvent interaction can affect the fluorescence spectra in many ways. For example, it can cause a shift in the fluorescence energy and can quench the fluorescence by intersystem crossing (ISC), formation of non-fluorescent complex or by ionization to non-fluorescent species. The Stokes shift, i.e., the wavelength difference between the absorption and fluorescence maxima, depends on the natures of both the solute and the solvent. Polar solutes in polar, hydrogen-bonding solvents give rise to large (viz., 20 to 50 nm) Stokes shifts. A knowledge of environmental effects on the spectra and quantum yields of fluorescence is necessary for the utilization of fluorescence techniques to extract information regarding the immediate microenvironments (e.g., polarity, viscosity, etc.) of the fluorescent molecules. Such fluorescent probe studies find important applications in biological and polymer sciences.
+
+
+#### Objective
+
+- To demonstrate the general solvent effects on fluorescence spectra with the help of a set of solvents with different polarities.
+- To determine the solvent-dependent stokes shifts.
+- To plot Lippert-Mataga equation
